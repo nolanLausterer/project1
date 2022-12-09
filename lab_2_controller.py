@@ -53,6 +53,7 @@ class Controller(QMainWindow, Ui_MainWindow):
         for the passed value  
         
         :param percent: percent number value.
+        :return: GPA number 
         '''
         return points
 
